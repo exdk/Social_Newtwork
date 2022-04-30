@@ -1,0 +1,3 @@
+*#987*00# - Service menu
+*#987*99# - Full reset 
+*#900# - SW version

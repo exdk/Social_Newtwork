@@ -1,0 +1,28 @@
+909 Dual
+*#06# показывает IMEI (International Mobile Equipment Identity) код
+*#0000# устанавливает меню на Английский
+*#3370# устанавливает Enhaced Full Rate (режим улучшающий качество звука)
+#3370# выключает Enhaced Full Rate
+*#9000# для ввода SIM lock кода
+*#9001# для ввода corporate lock кода (Bosch 908)
+*#9002# для ввода provider lock кода (Bosch 908)
+*#9003# для ввода network lock кода
+*#9004# для ввода subset lock кода
+*#9100# для снятия SIM lock кода
+*#9101# для снятия corporate lock кода
+*#9102# для снятия provider lock кода
+*#9103# для снятия network lock кода
+*#9104# для снятия subset lock кода *#3262255*8378# (*#DANCALL*TEST#) для открытия секретного Инженерного меню.(меню 10)
+
+10. Engineering
+10.1 MS Info
+10.1.1 on
+10.1.2 off
+10.2 Software details
+10.2.1 Software version
+10.2.2 EEPROM version
+10.2 Test / Production details
+10.3.1 Hardware data
+10.3.2 Production data
+10.3.3 Service data
+10.3.4 Mechanical data

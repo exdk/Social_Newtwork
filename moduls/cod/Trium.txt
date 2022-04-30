@@ -1,0 +1,20 @@
+разблокировка и инж. меню телефонов TRIUM
+
+Trium hold * 3926
+*#9911# L1 debug information
+*#9922# enter menu without sim
+*#9944# some display test
+*#9955# some display test
+*#9966# Lct: 0 min
+*#9977# irda test
+*#9988# Dmm free test
+*#9999# reset to factory defaults
+*#9912# Forbidden list on
+*#9914# wite display
+*#9915# Not implemented
+*#9916# display text on
+*#9919# Main=> Main
+*#9920# Vibrator off
+*#9930# poly test
+*#9931# audio frequency test
+*#9940# DoYY\

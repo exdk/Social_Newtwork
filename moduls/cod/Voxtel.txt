@@ -1,0 +1,10 @@
+0124 - master code 
+0718#(*)- hold - menu (ST11, SC10, V100 without SIM)
+4268#(*)- hold - show code (ST11, SC10 without SIM)
+*789(#)- hold - menu (V50, RX100 without SIM) 
+
+Voxtel 
+0124 - master code 
+0718#(*)- hold - menu (ST11, SC10, V100 without SIM) 
+4268#(*)- hold - show code (ST11, SC10 without SIM) 
+*789(#)- hold - menu (V50, V300, RX100 without SIM)

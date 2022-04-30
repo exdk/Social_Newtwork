@@ -1,0 +1,73 @@
+Samsung *#9998*947# (без SIM)
+
+стандартные коды - 1234 или 0000
+сброс eprom: *2767*2878#(снятие кода)
+X100, X600 - снять simlock #*7337# список блокировок *#7465625#
+
+*2767*3855# - FULL E2P RESET
+*2767*2878# - CUSTOM E2P RESET
+#*7337# - UNLOCK
+*2767*688# - UNLOCK
+*#0523# - CONTRAST
+*#9998*523# - CONTRAST
+*#8999*8378# - Service Menu (X100)
+
+
+SGH-600
+*#06# -> Показывает IMEI.
+*#9999# -> Показывает версию ПО.
+*#0837# -> Показывает версию ПО (instructions)
+*#0001# -> Показывает Серийные параметры
+*#9125# -> Activates the smiley when charging.
+*#9998*228# -> Статус батареи (емкость, напряжение, температуру)
+*#9998*246# -> Program status
+*#9998*289# -> Изменение частоты звонка
+*#9998*324# -> Экран отладчика
+*#9998*364# -> Watchdog
+*#9998*377# -> EEPROM Error Stack - Use side keys to select values. Cancel and ok.
+*#9998*427# -> Trace Watchdog
+*#9998*523# -> Изменение контрастности дисплея - Только для версии G60RL01W
+*#9998*544# -> Jig detect
+*#9998*636# -> Статус памяти
+*#9998*746# -> Размер SIM файла
+*#9998*778# -> SIM Service Table
+*#9998*785# -> RTK (Run Time Kernel) errors - if ok then phn is reset, info is put in memory error.
+*#9998*786# -> Run, Last UP, Last DOWN
+*#9998*837# -> Версия ПО
+*#9998*842# -> Тест вибратора - Подсветка экрана мигает 10 секунд и включается вибратор.
+*#9998*862# -> Vocoder Reg - Normal, Earphone or carkit can be selected
+*#9998*872# -> Diag
+*#9998*947# -> Reset On Fatal Error
+*#9998*999# -> Last/Chk
+*#9998*9266# -> Yann debug screen (=Debug Screens?)
+*#9998*9999# -> Software version
+*0001*s*f*t# -> Changes serial parameters (s=?, f=0,1, t=0,1) (incomplete)
+*0002*?# -> неизвестно
+*0003*?# -> неизвестно
+
+SP-разблокировка SGH-600 и SGH 2100
+
+*2767*3855# -> Полный сброс l EEPROM ( Этот код удаляет SP-блокирoвку!! )
+Но также изменяет IMEI на 447967-89-400044-0, Для восстановления своего старого IMEI используйте соответствующее ПО (на свой страх и риск)
+
+*2767*2878# -> Пользовательский сброс EEEPROM
+Этот код был проверен на Samsung SGH-600 с версией ПО FLD_2C6 G60SB03X
+
+SAMSUNG
+a800 unlock - *2767*637#
+Samsung
+x100, x600 -
+Unlock: #*7337#
+Customer Reset: “*2767*2878#”.
+WAP Reset: “*2767*927#”
+Full Reset: “*2767*3855#”
+
+Samsung
+*2767*3855# - FULL E2P RESET
+*2767*2878# - CUSTOM E2P RESET
+#*7337# - UNLOCK
+*2767*688# - UNLOCK
+*#0523# - CONTRAST
+*#9998*523# - CONTRAST
+*#8999*8378# - Service Menu (X100)
+

@@ -1,0 +1,5 @@
+<Files ~ "niz.php$|verh.php$">
+Order allow,deny
+Deny from All
+Satisfy All
+</Files>

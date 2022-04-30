@@ -1,0 +1,21 @@
+S688 - #*301#02# send - with SIM
+menu:
+7 - 10 - ok,
+
+#*8000#, #*3676# (reboot repair)
+
+V09, S1180 - *, 3 times down, 3 times up - service menu
+
+FLY BIRD
+688 - #*301#02# зел.трубка затем #*8000# и #*3676# (делать с сим)
+А вот еще несколько (могут повторяться):
+
+Fly Bird S688 - #*301#02# send - with SIM
+menu:
+7 - 10 - ok,
+
+#*8000#, #*3676# (reboot repair)
+V09, S1180 - *, 3 times down, 3 times up - service menu
+
+Fly v688-#*301#02 или #*8000#,потом #*3676#
+далее "formatting" ждем 10сек передергиваем АКБ и OK

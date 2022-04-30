@@ -1,0 +1,6 @@
+# так безопаснее
+php_value register_globals 1
+# убираем экранирование кавычек (эта фича для ламеров, только портит вид)
+php_value magic_quotes_gpc 1
+# кодировка по-умолчанию
+AddDefaultCharset UTF-8

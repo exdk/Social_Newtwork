@@ -1,0 +1,83 @@
+Full reset (phone code reset)- ##03*934#9367*192#397#7412569746 PWR,
+after reset - ##27732726 PWR and select "with uim"
+
+Код отпирающего Pantech *01763*737381 *
+В конец может быть # или *
+
+*01763*8371 * SW версия
+*01763*6371 * Отпирают телефон?
+*01763*737381 * отпирают?
+*01763*3641 * ENGINR. РЕЖИМ
+*01763*737381# и *01763*3641#
+как выключить инженерное меню если
+он включен кодом *01763*3641#
+код выключения невозможно ввести
+* не набирается первой только цыфры
+как ввести код *01763*3640# (*01763*ENG0#) - Выключить инженерный режим
+Держи клавишу отбой секунд пять и получиш орден за мужество от представителей Pantech
+
+BLANKET CODES - ОБЩИЕ КОДЫ:
+
+G500 G600 G700 G800 G900
+
+
+*01763*476# --- Tests
+*01763*5640# (*01763*LOG0#) --- Disable LOG
+*01763*5641# (*01763*LOG1#) --- Enable LOG
+*01763*6370# (*01763*MEP0#) --- Disable MEP menu (unlock menu)
+*01763*6371# (*01763*MEP1#) --- Enable MEP menu (unlock menu)
+*01763*3640# (*01763*ENG0#) --- Disable Engineer Mode
+*01763*3641# (*01763*ENG1#) --- Enable Engineer Mode
+*01763*63866330# (*01763*NETMODE0#) --- Disable NetMode
+*01763*63866331# (*01763*NETMODE1#) --- Enable NetMode
+*01763*737381# (*01763*RESET1#) --- System reset (all default settings)
+
+*01763*546360# --- LineN0
+*01763*546361# --- LineN1
+*01763*546364# --- LineN4
+*01763*546367# --- LineN7
+
+*01763*34531# --- ?
+*01763*62766# --- ?
+*01763*727# --- ?
+*01763*68726# --- ?
+
+*01763*22637266# (*01763*CAMERAON#) --- Camera test mode on
+*01763*225837# --- ?
+
+G600 [GZBP0105102004 PANTECH ver 1.0]
+
+
+*01763*22637266# (*01763*CAMERAON#) --- Camera test mode on
+
+G800 [GLAP0006062004 G800 ver 1.0N]
+
+*01763*22637266# (*01763*CAMERAON#) --- Camera test mode on
+*01763*79837# (*01763*SWVER#) --- SoftWare version
+*01763*28271# --- ?
+*01763*28270# --- ?
+*01763*2873738# --- ?
+*01763*288# --- ?
+
+G900 [GWBP0206282004 G900 ver 1.0b]
+
+*01763*22637266# (*01763*CAMERAON#) --- Camera test mode on
+*01763*79837# (*01763*SWVER#) --- SoftWare version
+*01763*92782# --- copy UaData..... copy httpUserAgent.....Call Edit Mode : %s ?
+*01763*927827763# --- copy UaProfData..... copy httpUserAgentProf.....
+
+
+Мастер коды для телефона Pantech HX-550C
+Full reset (phone code reset)- #03*934#9367*192#397#7412569746 PWR, after reset - ##27732726 PWR and select "with uim"
+
+
+*01763*737381# - master reset (user data, user code) without SIM
+*01763*8371# - SW version
+*01763*6371# - UNLOCK
+*01763*3641# - Menu
+Pantech
+*01763*737381# - master reset (user data, user code) without SIM
+*01763*8371# - SW version
+*01763*6371# - UNLOCK
+*01763*3641# - Menu
+

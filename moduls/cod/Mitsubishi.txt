@@ -1,0 +1,7 @@
+*65512890 (*-hold) format FFS (Eclipse)
+
+* 3926 - (*-hold) test mode
+
+* 5806 - (*-hold) SW version
+
+*(hold) 787090 - trium 320 unlock menu

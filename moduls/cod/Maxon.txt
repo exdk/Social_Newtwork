@@ -1,0 +1,4 @@
+*#9922# - menu, reset (without SIM)
+*#9900# - Software Version
+*#9901# - Software Version (PBatch)
+*#9915# - разблокировка Maxon телефонов

@@ -1,0 +1,7 @@
+ErrorDocument 404 /index.php?act=error
+ErrorDocument 403 /index.php?act=error
+<Files ~ "configs.php$">
+Order allow,deny
+Deny from All
+Satisfy All
+</Files>

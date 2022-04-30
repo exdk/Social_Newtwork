@@ -1,0 +1,19 @@
+Master Codes
+
+- 25228352
+- 25228353
+- 83227423 (TH3/4,BH4,BF5,BG3,BF3/4..)
+
+###337*07# - master reset (с SIM)
+###847# - factory reset (с SIM)
+
+Alcatel 835 formating - **0102#
+
+Секретные коды к телефонам Alcatel
+One Touch Club Dualband #06# показывает IMEI (International Mobile Equipment Identity) код 000000* вход в сервисное меню
+TRACES - channel indicator menus (нетмонитор индицируются параметры сети)
+SWOFF CODES - журнал выключений телефона
+EMPTY SWOFF - очистка журнала выключений телефона
+CTRL CHARDGE - контроль зарядки батареи
+CHEKER - тест дисплея
+

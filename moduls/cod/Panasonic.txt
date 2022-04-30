@@ -1,0 +1,20 @@
+*01763*737381# - master reset (user data, user code) A100, A101, A102, G50, G51, G70, GD55..
+*369#(*) - MENU
+
+746 menu, menu - lock menu
+*#9999# - 5 sec after power on - SW version (GD75, GD67, GD87..)
+
+Panasonic
+все начиная с gd55 - кончая кажеться последними...
+*01763*737381#
+
+PANASONIC
+G50,51,55,70 - *01763*737381#
+
+Panasonic
+
+*01763*737381# - master reset (user data, user code) A100, A101, A102,G50, G51, G70, GD55..
+*369#(*) - MENU
+
+7, 4, 6, menu, menu - lock menu
+*#9999# - 5 sec after power on - SW version (GD75, GD67, GD87..)

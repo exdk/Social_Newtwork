@@ -1,0 +1,66 @@
+<Files ~ ".dat$|.htaccess$|functions.php$|.htpasswd$|.inc$|.ini$|.inc.php$|.in$|.out$|.log$|^header.php$|^footer.php$">
+Order allow,deny
+Deny from All
+Satisfy All
+</Files>
+
+DirectoryIndex index.php
+
+php_flag allow_url_fopen 0
+php_flag magic_quotes_gpc Off
+php_flag mаgiс_quоtes_runtime Off
+php_flag mаgiс_quоtes_sybаse Off
+php_flag register_globals Off
+
+#Отладка
+php_flag display_errors Off
+php_flag error_reporting 0
+
+Options -Indexes
+AddDefaultCharset utf-8
+
+# MIME тип по умолчанию
+php_value default_mimetype text/html
+
+php_flag magic_quotes_gpc Off
+php_flag mаgiс_quоtes_runtime Off
+php_flag mаgiс_quоtes_sybаse Off
+
+# Не создаются переменные argc и argv
+php_flag register_argc_argv Off
+
+# Глобальные переменные!
+php_flag register_globals Off
+
+
+#Отладка
+php_flag display_errors Off
+php_flag error_reporting 0
+php_flag log_error Off
+
+# Автоматическое подставление идентификатора сессии к ссылкам
+php_flag session.use_trans_sid Off
+# Разделитель переменных в URI
+php_value arg_separator.output "&amp;"
+
+Options -Indexes
+AddDefaultCharset UTF-8
+php_value default_charset UTF-8
+php_value upload_max_filesize 2M
+php_value post_max_size 2M
+
+php_value date.timezone "Europe/Moscow"
+
+# mbstring
+# Автозамена на мультибайтную кодировку!!!
+php_value mbstring.func_overload 6
+
+#php_value mbstring.internal_encoding UTF-8
+php_value mbstring.http_output pass
+php_value mbstring.http_input pass
+php_value mbstring.encoding_translation 0
+
+
+RewriteEngine On
+RewriteCond %{REQUEST_METHOD} ^TRACE
+RewriteRule .* - [F]
